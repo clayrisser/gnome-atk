@@ -4,6 +4,8 @@
 
 > typescript bindings for gnome atk
 
+![](assets/gnome-atk.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Features
